@@ -3,7 +3,7 @@
 
 用同音字替换敏感词
 
-[live demo]()
+[live demo](https://gdxfsmdchrzty.github.io/censor-obfus/)
 
 > 感谢以下项目
 
